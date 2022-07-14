@@ -4,7 +4,7 @@
 - It basic use is to manage employee details like first name , email , etc. 
 - It is based on MVC architecture.
 - It's view component basically has 4 components : 
-- Index/Home , Add-employee ,update-employee , view-employee-details , delete-employee 
+  Index(Home) , Add-employee ,update-employee , view-employee-details , delete-employee 
  
 
 
